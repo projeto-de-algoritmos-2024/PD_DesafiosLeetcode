@@ -20,17 +20,17 @@ Meu projeto foi resolução de problemas do LeetCode.
 
 ## Desafios
 
-| NOME | DIFICULDADE |
-| ---- | ----------- |
-| []() |             |
-| []() |             |
-| []() |             |
+| NOME                                                                                                 | DIFICULDADE |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | MEDIUM      |
+| []()                                                                                                 |             |
+| []()                                                                                                 |             |
 
 Aqui estão algumas imagens do projeto em funcionamento:
 
 #### Desafio 1 []()
 
-![Screenshot Desafio 1]()
+![Screenshot Desafio 1](assets/maximum-product-subarray-medium-passed.png)
 
 #### Desafio 2 []()
 
