@@ -23,7 +23,7 @@ Meu projeto foi resolução de problemas do LeetCode.
 | NOME                                                                                                 | DIFICULDADE |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | MEDIUM      |
-| []()                                                                                                 |             |
+| [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)           | HARD        |
 | []()                                                                                                 |             |
 
 Aqui estão algumas imagens do projeto em funcionamento:
@@ -32,7 +32,7 @@ Aqui estão algumas imagens do projeto em funcionamento:
 
 ![Screenshot Desafio 1](assets/maximum-product-subarray-medium-passed.png)
 
-#### Desafio 2 []()
+#### Desafio 2 [](assets/skyline-problem-passed.png)
 
 ![Screenshot Desafio 2]()
 
