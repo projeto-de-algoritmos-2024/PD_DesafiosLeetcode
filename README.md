@@ -24,7 +24,7 @@ Meu projeto foi resolução de problemas do LeetCode.
 | ---------------------------------------------------------------------------------------------------- | ----------- |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | MEDIUM      |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)           | HARD        |
-| []()                                                                                                 |             |
+| [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/)             | HARD        |
 
 Aqui estão algumas imagens do projeto em funcionamento:
 
@@ -36,9 +36,9 @@ Aqui estão algumas imagens do projeto em funcionamento:
 
 ![Screenshot Desafio 2](assets/skyline-problem-passed.png)
 
-#### Desafio 3 []()
+#### Desafio 3 [879. Profitable Schemes (HARD)](https://leetcode.com/problems/profitable-schemes/description/)
 
-![Screenshot Desafio 3]()
+![Screenshot Desafio 3](assets/profitable-schemes-passed.png)
 
 ## Modo de uso
 
