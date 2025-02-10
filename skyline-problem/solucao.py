@@ -4,6 +4,15 @@ class Solution(object):
         for inicio, fim, altura in edificios:
             coordenadas.append(inicio)
             coordenadas.append(fim)
+        conjunto_ordenado = sorted(set(coordenadas))
+        mapeamento = {}
+        for i, c in enumerate(conjunto_ordenado):
+            mapeamento[c] = i
+        dp = [0] * len(mapeamento)
+        for inicio, fim, altura in edificios:
+            for j in range(mapeamento[inicio], mapeamento[fim]):
+                if altura > dp[j]:
+                    dp[j] = altura
         return []
 
 solucao = Solution()
