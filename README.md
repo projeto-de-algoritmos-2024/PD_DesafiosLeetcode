@@ -28,13 +28,13 @@ Meu projeto foi resolução de problemas do LeetCode.
 
 Aqui estão algumas imagens do projeto em funcionamento:
 
-#### Desafio 1 []()
+#### Desafio 1 [152. Maximum Product Subarray (MEDIUM)](https://leetcode.com/problems/maximum-product-subarray/description/)
 
 ![Screenshot Desafio 1](assets/maximum-product-subarray-medium-passed.png)
 
-#### Desafio 2 [](assets/skyline-problem-passed.png)
+#### Desafio 2 [218. The Skyline Problem (HARD)](https://leetcode.com/problems/the-skyline-problem/description/)
 
-![Screenshot Desafio 2]()
+![Screenshot Desafio 2](assets/skyline-problem-passed.png)
 
 #### Desafio 3 []()
 
